@@ -1,0 +1,14 @@
+* {
+    background: rgb(245, 252, 234);
+}
+.App {
+    margin: 0 10% 0 10%;
+}
+ .table {
+     border: 1px solid black;
+     border-radius: 2px;
+ }
+.head {
+    display: grid;
+    grid-template-columns: 1fr 6fr 2fr 1fr;
+}
